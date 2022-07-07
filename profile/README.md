@@ -10,9 +10,6 @@ the exercises in their dependencies have been sufficiently mastered. It also tri
 difficulty of the exercises balanced, so that the selected exercises lie slightly outside the user's
 current abilities.
 
-You can think of this process as progressing through the skill tree of a character in a video game,
-but applied to arbitrary skills, specified in plain-text files which are easy to share and augment.
-
 Trane is named after John Coltrane, whose nickname Trane was often used in wordplay with the word
 train (as in the vehicle) to describe the overwhelming power of his playing. It is used here as a
 play on its homophone (as in "*trane* a new skill").
