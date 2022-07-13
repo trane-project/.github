@@ -14,6 +14,10 @@ Trane is named after John Coltrane, whose nickname Trane was often used in wordp
 train (as in the vehicle) to describe the overwhelming power of his playing. It is used here as a
 play on its homophone (as in "*trane* a new skill").
 
+# Documentation
+
+Latest documentation can be found at the [official site](https://trane-project.github.io/)
+
 # Repositories
 
 - The library implementing the core logic: [trane](https://github.com/trane-project/trane).
