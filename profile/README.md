@@ -22,4 +22,9 @@ Latest documentation can be found at the [official site](https://trane-project.g
 
 - The library implementing the core logic: [trane](https://github.com/trane-project/trane).
 - The command line interface: [trane-cli](https://github.com/trane-project/trane-cli).
-- Official music courses: [trane-music](https://github.com/trane-project/trane-music).
+- Official courses:
+  - [trane-music](https://github.com/trane-project/trane-music): Courses on music. Under construction.
+  - [trane-leetcode](https://github.com/trane-project/trane-leetcode): Courses on algorithm and data
+  structure problems using exercises from LeetCode.
+  - [trane-rustlings](https://github.com/trane-project/trane-rustlings): A course to learn Rust using
+    trane and rustlings.
