@@ -24,6 +24,7 @@ Latest documentation can be found at the [official site](https://trane-project.g
 - The command line interface: [trane-cli](https://github.com/trane-project/trane-cli).
 - Official courses:
   - [trane-music](https://github.com/trane-project/trane-music): Courses on music. Under construction.
+  - [trane-earmaster](https://github.com/trane-project/trane-master): Augments EarMaster exercises for use with Trane.
   - [trane-leetcode](https://github.com/trane-project/trane-leetcode): Courses on algorithm and data
   structure problems using exercises from LeetCode.
   - [trane-rustlings](https://github.com/trane-project/trane-rustlings): A course to learn Rust using
